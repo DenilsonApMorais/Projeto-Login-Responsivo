@@ -37,15 +37,16 @@ main{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.397);
 }
 
-div#imagem{
+section#login > div#imagem{
     background:#f52c82 url(../imagens/foto.jpg) no-repeat; 
-    height: 167px;
+    height: 200px;
     background-size: cover;
     background-position: right bottom;
-    height: 200px;   
+   
     display: block;
 }
-div#formulário{
+section#login > div#formulario{
     display: block;
     padding: 10px;
+    
 }
