@@ -79,7 +79,7 @@ div.campo > input{
     border: 0px;
     border-radius: 5px;
     padding: 4px;
-    transform: translate(38px,-35px);/*usar transform na ultima linha*/
+    transform: translate(30px,-30px);/*usar transform na ultima linha*/
     /*transform: translate(42px,-40.5px);*/
 }
 
