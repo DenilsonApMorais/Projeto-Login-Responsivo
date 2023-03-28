@@ -32,7 +32,7 @@ main{
     left: 50%;
     background-color: white;
     width: 250px;
-    height: 515px;
+    height: 500px;
     border-radius: 20px;
     overflow: hidden; /* tudo que tiver de fora esconde*/
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.397);
@@ -41,7 +41,7 @@ main{
 
 section#login > div#imagem{
     background:#f52c82 url(../imagens/foto.jpg) no-repeat; 
-    height: 180px;
+    height: 160px;
     background-size: cover;
     background-position: right bottom;
    
